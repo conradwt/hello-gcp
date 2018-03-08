@@ -1,4 +1,4 @@
-# HelloGcp
+# Hello GCP
 
 To start your Phoenix server:
 
